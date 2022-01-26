@@ -4,8 +4,6 @@
 
 using namespace std;
 
-// Constants
-
 // Function prototype
 int repetitionFreeNumber(int startingNumber);
 

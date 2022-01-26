@@ -23,6 +23,7 @@
 #include "lab_21.h"
 #include "lab_22.h"
 #include "lab_23.h"
+#include "lab_24.h"
 
 using namespace std;
 
@@ -44,11 +45,12 @@ int main() {
 //    lab14();
 //    lab15();
 //    lab16();
-    lab17();
+//    lab17();
 //    lab18();
 //    lab19();
 //    lab20();
 //    lab21();
 //    lab22();
 //    lab23();
+    lab24();
 }
