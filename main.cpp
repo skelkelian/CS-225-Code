@@ -24,6 +24,7 @@
 #include "lab_22.h"
 #include "lab_23.h"
 #include "lab_24.h"
+#include "lab_25.h"
 
 using namespace std;
 
@@ -52,5 +53,6 @@ int main() {
 //    lab21();
 //    lab22();
 //    lab23();
-    lab24();
+//    lab24();
+    lab25();
 }
